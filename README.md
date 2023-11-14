@@ -1,2 +1,2 @@
 # Kurs-zrozumie-react
-Kurs react'a
+Znajdują się tutaj wszystkie moje pliki z poszczególnych lekcji
